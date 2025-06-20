@@ -7,7 +7,7 @@ import streamlit as st
 # --- Configuration ---
 st.set_page_config(layout="wide", page_title="QRM AI Teaching Assistant")
 
-JSON_FILE = "qrm_chapter_summaries_complete.json"
+JSON_FILE = "qrm_summaries.json"
 API_KEY = "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"
 
 # --- OpenAI Client ---
